@@ -3,7 +3,6 @@ layout: default
 title: Geting Started
 nav_order: 2
 ---
-{: .no_toc .text-delta }
 
 1. TOC
    {:toc}
