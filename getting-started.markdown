@@ -1,10 +1,10 @@
 ---
 layout: default
-title: UI Components
+title: Geting Started
 nav_order: 2
 ---
 
-# Collective Biographies of Women
+# About Collective Biographies of Women
 
 A collective biography is "a set of three or more chapter-length biographies placed together in a single book." CBW is a digital humanities project that contains data from all English-language collective biography volumes written about women. The public interface (that is, what the public sees on cbw.iath.virginia.edu) contains:
 
